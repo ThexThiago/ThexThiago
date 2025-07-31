@@ -4,8 +4,7 @@ Desenvolvedor em formação | Estudante de ADS
 Me chamo Thiago, tenho 20 anos e sou de São Paulo – SP.  Atualmente curso Análise e Desenvolvimento de Sistemas na faculdade Impacta, onde venho me aprofundando nas áreas de back-end e front-end com foco em **Java**, **.NET**, **Python**.  
 Sou apaixonado por tecnologia e estou sempre buscando aprender e construir projetos reais!
 
-📫 E-mail para contato: thiago.fe.sousa@gmail.com  
-🌐 GitHub: [ThexThiago](https://github.com/ThexThiago)                                                                
+📫 E-mail para contato: thiago.fe.sousa@gmail.com                                                                  
 💼 LinkedIn: [thiagoferreiradesousa](https://www.linkedin.com/in/thiagoferreiradesousa)  
 📍 São Paulo – SP
 
