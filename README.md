@@ -25,7 +25,6 @@ Sou apaixonado por tecnologia e estou sempre buscando aprender e construir proje
 
 ![ThexThiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThexThiago&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThexThiago&layout=compact&theme=tokyonight)     
 
 ---
 
